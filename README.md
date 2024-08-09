@@ -1,0 +1,3 @@
+## Data Cleaning and Preprocessing for Instacart's Modified Dataset
+
+The goal of this project is to clean and preprocess a modified Instacart dataset, addressing issues such as missing values and duplicates while maintaining the integrity of the original data distributions. You will complete three steps: outlining your approach, justifying your decisions, and summarizing your findings to ensure the data is ready for further analysis.
